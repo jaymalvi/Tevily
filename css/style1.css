@@ -1,0 +1,116 @@
+*{
+    box-sizing:border-box;
+}
+.nav-link{
+   color:red !important;
+}
+/* .nav-link:hover{
+    border-bottom:1px dotted red;
+} */
+.nav-item{
+    position: relative;
+    display: block;
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+.nav-item a::before{
+    content: '';
+    width: 60%;
+    height: 3px;
+    border-radius: 0px;
+    background-color: red;
+    position: absolute;
+    bottom:0px;
+    left: 0;
+    transition: transform 500ms ease;
+    transform: scale(0, 1);
+    /* transform-origin: left center; */
+    
+    /* display: inline; */
+
+   
+ }
+ .nav-item a:hover::before{
+   /* display: inline;
+    width:60px;
+    height:2px; */
+    /* border-radius: 5px;
+    bottom:0px;
+    left:0;
+    background-color: red;
+    content:'';
+    display: none; */
+    transform: scale(1, 1);
+    transform-origin: right center;
+   
+ }
+ .drop-down{
+     position: absolute;
+     content:'';
+     bottom:0;
+     left:10px;
+     top:60px;
+     display:none;
+ }
+ .drop-down ul li{
+     background-color: #fff;
+     line-height: 30px;
+     border-bottom:1px solid black;
+     margin-top:10px;
+ }
+ .nav-item:hover .drop-down{
+    display: inline;
+    
+    
+ } 
+  .main_heading{
+      margin-top:80px;
+      height:300px;
+      position: relative;
+  }
+  .single_img::before{
+      position: absolute;
+      content: '';
+      top:0%;
+      left:0;
+      bottom: 0;
+      background-color:darkorange;
+      width:10%;
+      height:191.5%;
+      opacity:.6;
+      /* visibility: hidden; */
+      transition: all 700ms ease;
+      /* transform: translateY(0%); */
+      /* z-index: 1; */
+      border-radius:10px
+
+  }
+ 
+  .single_img::after{
+    position: absolute;
+    content: '';
+    background-color: red;
+    opacity:.4;
+    visibility: hidden;
+    transition: all 700ms ease;
+    /* transform: translateY(0%); */
+    /* z-index: 1; */
+    border-radius:10px;
+    bottom:-95%;
+    right:20px;
+    width:10%;
+    height:191.5%;
+    top:0;
+}
+.single_img:hover::before{
+    width:96%;
+   visibility: visible;
+}
+.single_img:hover::after{
+    width:96%;
+   visibility: visible;
+}
+.main_heading p{
+    color:red;.Review
+    word-wrap: break-word;
+}

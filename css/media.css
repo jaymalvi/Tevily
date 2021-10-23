@@ -1,0 +1,480 @@
+/* @media only screen and (min-width:1024px) and (max-width:1820px){
+    .container{
+        width:1170px;
+
+    }
+    .srt{
+        display: none !important;
+    }
+}
+
+
+
+
+@media only screen and (max-width:1024px) and (min-width:762px){
+
+    .only_nav{
+        margin-left:0px !important;
+        padding-left:0px !important;
+    }
+    /* .header  {
+        display : none !important;
+    } */
+
+
+
+
+
+/* @media only screen and (max-width:768px) and (min-width:576px){
+
+    .header {
+        display: none !important;
+    }
+    .float-right{
+        display: none !important;
+    }
+}
+
+
+@media only screen and (max-width:768px) and (min-width:320px){
+
+    .header  {
+        display : none !important;
+    }
+    .search{
+        display: none;
+    }
+    .mts{
+        display: none !important;
+    }
+  
+        .tour-search-one__input-box {
+            -webkit-box-flex: 1;
+            flex: 1 1 33.333%;
+            max-width: none !important;
+            padding: 0px 40px;
+            padding-top: 27px;
+            padding-bottom: 25px;
+        }
+        .dd{
+         display: inline;
+        }
+        .NoneT{
+            display: none !important;
+        }
+        .destinationa_single_img {
+           text-align:center;
+        }
+      .Gallery_1{
+          width:100%;
+          margin-bottom:20px;
+      }
+      .why_choose_right {
+        
+        height:auto;
+        padding: 53px 0 62px;
+        padding-left: 49px;
+    }
+    .section_title{
+        margin-top:-5px !important;
+        margin-bottom:5px !important;
+        padding-left:20px;
+        text-align:left !important;
+    }
+    .main_{
+        margin-top:-80px !important;
+    }
+    .section_title_img{
+        margin-left:20px !important;
+    }
+    .section_title_content{
+        margin-left:20px !important;
+        margin-bottom:55px !important
+    }
+    .foter_logo{
+        margin-left:30px;
+    }
+    
+.section_date {
+    position: absolute;
+    content: '';
+    width: 65px;
+    height: 65px;
+    right: 19px;
+    bottom: 0px;
+    background: #e8604c;
+    border-radius: 8px 0px 8px 0px;
+    padding-top: 13px;
+}
+   
+
+@media only screen and (max-width:1366px) and (min-width:1024px){
+
+    .top_baar{
+        padding-left:0px !important;
+    }
+    .only_nav{
+        margin-left:0px !important;
+    }
+    .search_content {
+        background-color: #faf5ee;
+        padding: 17px;
+        outline: none;
+        border: none;
+        width: 89px;
+        float:left;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:576px){
+    .about_discount {
+        content: '';
+        right: -8px;
+        bottom: 206px;
+        position: absolute;
+    }
+    .video {
+       
+        margin-top: 47px;
+        margin-left: 42px;
+    }
+    .Youtube_content{
+        margin-left:10px;
+    }
+    .details_img {
+        margin-top:0px;
+    }
+    .discover{
+        margin-top:20px !important;
+        margin-bottom:10px !important;
+    }
+    .details_img_discover{
+        margin-left:10px;
+    }
+    .overview_content{
+        margin-left:10px;
+    }
+    .destination_content_only{
+        margin-left:15px;
+    }
+    .card{
+        margin:auto
+    }
+    .home_destination {
+        margin-left:15px
+    }
+    .national_park_right_content{
+        margin-left:-70px;
+        flex:none !important;
+        overflow: hidden;
+    }
+    .tour_details_bottom {
+        margin-left: 17px;
+    }
+    .only_button_for{
+        margin-top: -40px !important;
+    }
+    .tour_details_overview{
+        margin-left:20px;
+    }
+    .cross_button{
+        padding-left:0px;
+    }
+    .progress_bar{
+        padding:10px;
+    }
+    .star_with_service{
+        margin-left:13px;
+        margin-top:10px;
+    }
+    .search_content{
+        padding-right:0px;
+    }
+    .comment_button{
+        margin-left:25%;
+    }
+    
+    .section_content_title h2{
+        width:100% !important;
+        font-size: 40px;
+        font-weight: 700;
+        font-family: 'DM Sans', sans-serif;
+        margin: 0;
+        line-height: 51px;
+        letter-spacing: -0.02em;
+        margin-bottom: 10px;
+    }
+    
+    .about_images {
+        margin-top: 38px;
+    }
+    .about_page_2nd_content{
+        width:100% !important; 
+    }
+    .news_date{
+        margin-right:0px;
+    }
+    .latest_news_details_content {
+      
+        padding: 12px;
+        margin:auto;
+       
+    }
+    .latest-news_details_page{
+       margin-left:10% !important;
+    }
+    .news_detils_content_only{
+        padding-left:10px
+    }
+    .progress-container {
+        transform: translateY(-50%);
+        top: 25%;
+        position: absolute;
+        width:75%;
+        color: #FFF;
+        padding: 0 36px;
+    }
+    .tour-search-box{
+        margin:0px 10px 0px 10px;
+    /* } */
+    @media only screen and (max-width:1170px){
+        .container{
+            width:100%;
+        }
+        .navbar-nav{
+            margin-left:0px !important;
+            padding-left:0px !important;
+        }
+        .Top_baar{
+            margin-left:0px !important;
+            padding-left:0px !important;
+        }
+        .srt{
+            display: none;
+        }
+        .wild{
+            width:180px;
+        }
+        .section_title {
+            margin-top:88px !important;
+        }
+        .why_choose1{
+            height:765px;
+        }
+        .why_choose_right{
+            height:765px;
+            padding-top: 44px !important;
+            padding-left:46px !important
+        }
+        @media only screen and (max-width:1024px) and (min-width:768px){
+          
+            .mts{
+                display: none !important;
+            }
+            .wild{
+                width:130px;
+            } 
+            .prof{
+                margin-top:32px !important
+            }
+            .why_choose_right p{
+                line-height:25px;
+            }
+            .get{
+                margin-top:10px !important
+            }
+            .why_choose_right{
+                padding-top:34px !important;
+            }
+            .font_of_p{
+                line-height:20px !important;
+            }
+            .Testimonial_content{
+                padding:50px 10px 30px 10px !important;
+            }
+            .Destination_img img{
+                width:100%;
+            }
+            .Destination_img{
+                height:80%;
+            }
+            .Gallery_1{
+                width:100%
+            }
+            .Gallery_1 img{
+                width:96%;
+            }
+            .why_choose_right {
+                height:auto;
+                padding-top:92px !important;
+                padding-left:80px !important
+            }
+            .section_title {
+                float:left;
+            }
+            .top{
+                margin-top:-35px !important
+            }
+            .top_class{
+                display: none !important;
+            } 
+            .top_of_footer{
+                margin-top:-15px !important;
+            }
+            .progress-container{
+                font-weight: bold;
+                font-size: 55px;
+                margin-top: -26%;
+                /* color: red !important; */
+            }
+        }
+        @media only screen and (max-width:576px) and (min-width:320px){
+            .brand-one{
+                display: none;
+
+            }
+            
+            /* .card{
+                display: none;
+            } */
+            .Gallery_1{
+                width:100%;
+                margin-top:30px;
+            }
+            .most_tours_hide{
+                display: none !;
+            }
+            .top_class{
+                display: none;
+            } 
+            .float-right{
+                display: none;
+            }
+            .carousel-caption h3{
+                font-size:40px
+            }
+            .tour-search-one__btn-wrap {
+               
+                max-width: 357px;
+                border-radius: 20px !important;
+               
+            }
+            .tour-search-one__btn{
+                border-radius:20px !important;
+            }
+            .tour-search-box{
+                width:96%;
+                margin:auto
+            }
+            .Destination_img img{
+                width:100%;
+                height:289px
+            }
+            .about_right {
+                margin-left:20px !important;
+            }
+            .about_right p {
+                margin-top: 15px;
+                 width:100%; 
+            }
+            .Testimonial_content {
+                width: 91%;
+                margin: auto;
+            }
+            }
+            .video {
+                margin-left: 20px;
+            }
+            .Youtube_content {
+                margin-left:20px;
+            }
+            .gallery{
+                margin:0px;
+            }
+            .about_discount {
+                content: '';
+                right: 4px;
+                bottom: 150px;
+                position: absolute;
+            }
+            .why_choose_right{
+                height:auto
+            }
+            .main_ {
+                float:left;
+                margin-top:-40px !important;
+            }
+            .section_title_img {
+                margin-left:20px;
+            }
+            .section_title_content{
+                margin-left:20px;
+                margin-bottom: 30px;
+            }
+            .section_date{
+                margin-right:19px;
+            }
+            .foter{
+                padding-left:40px;
+            }
+            .search {
+                display: none;
+            }
+           
+            .tour-search-one__input-box {
+                -webkit-box-flex: 1;
+                flex: 1 1 33.333%;
+                max-width: 100%;
+                padding: 0px 40px;
+                padding-top: 27px;
+                padding-bottom: 25px;
+            }
+            .details_img_discover{
+                margin-left:20px;
+            }
+            .overview_content{
+                margin-left:20px;
+            }
+            .progress-container{
+                transform: translateY(-50%);
+                top: 35%;
+                position: absolute;
+                width:36% !important;
+                color: #FFF;
+                padding:0px !important;
+                margin-left:20px
+
+            }
+            .card {
+                margin:10px;
+                margin: auto;
+                margin-top:20px
+            }
+            .footer_last{
+                margin-right:30px !important;
+            }
+            .all_img{
+                margin-top:29px;
+                margin-bottom:10px;
+            }
+            .destination_content {
+                bottom: 293px;
+              
+            }.end_img .Destination_img {
+              
+                height:0px;
+            }
+            .destinationa_single_img::before{
+              
+                top:5px;
+               
+            }
+            .destinationa_single_img:hover::before{
+                height:55%;
+               
+            }
+        }
+        
+       
+    }
+       
