@@ -75,7 +75,7 @@
                        <div class="collapse navbar-collapse" id="collapsibleNavbar">
                           <ul class="navbar-nav ml-5 pl-5">
                              <li class="nav-item w3-dropdown-hover">
-                                <a class="nav-link1 w3-button" href="index.html">Home</a>
+                                <a class="nav-link1 w3-button" href="index.php">Home</a>
                                 <div class="w3-dropdown-content w3-bar-block w3-border">
                                    <a href="#" target="_blanks" class="w3-bar-item w3-button text-decoration-none">Home 1</a>
                                    <a href="#" class="w3-bar-item w3-button text-decoration-none">Home 2</a>
@@ -85,16 +85,16 @@
                              <li class="nav-item w3-dropdown-hover ml-5">
                                 <a class="nav-link1 " href="#">Destination</a>
                                 <div class="w3-dropdown-content w3-bar-block w3-border">
-                                   <a href="destination page.html" class="w3-bar-item w3-button text-decoration-none">Destination</a>
-                                   <a href="destination details.html" class="w3-bar-item w3-button text-decoration-none">Destination Details</a>
+                                   <a href="destination page.php" class="w3-bar-item w3-button text-decoration-none">Destination</a>
+                                   <a href="destination details.php" class="w3-bar-item w3-button text-decoration-none">Destination Details</a>
                                 </div>
                              </li>
                              <li class="nav-item  w3-dropdown-hover  ml-5">
                                 <a class="nav-link1" href="#">Tours</a>
                                 <div class="w3-dropdown-content w3-bar-block w3-border">
-                                   <a href="tours.html" class="w3-bar-item w3-button text-decoration-none">Tour</a>
-                                   <a href="tourlist.html.html" class="w3-bar-item w3-button text-decoration-none">Tour list</a>
-                                   <a href="tour list details.html" class="w3-bar-item w3-button text-decoration-none">Tour Details</a>
+                                   <a href="tours.php" class="w3-bar-item w3-button text-decoration-none">Tour</a>
+                                   <a href="tourlist.php" class="w3-bar-item w3-button text-decoration-none">Tour list</a>
+                                   <a href="tour list details.php" class="w3-bar-item w3-button text-decoration-none">Tour Details</a>
                                 </div>
                              </li>
                              <li class="nav-item w3-dropdown-hover  ml-5">
@@ -106,8 +106,8 @@
                              <li class="nav-item w3-dropdown-hover  ml-5">
                                 <a class="nav-link1" href="#">News</a>
                                 <div class="w3-dropdown-content w3-bar-block w3-border">
-                                   <a href="news.html" class="w3-bar-item w3-button text-decoration-none">News</a>
-                                   <a href="news details.html" class="w3-bar-item w3-button text-decoration-none">News Details</a>
+                                   <a href="news.php" class="w3-bar-item w3-button text-decoration-none">News</a>
+                                   <a href="news details.php" class="w3-bar-item w3-button text-decoration-none">News Details</a>
                                 </div>
                              </li>
                              <li class="nav-item ml-5">
@@ -142,7 +142,7 @@
                    <div class="row">
                       <div class="col-xl-12">
                          <div class="tour-search-box">
-                            <form class="tour-search-one" action="tour-sidebar.html">
+                            <form class="tour-search-one" action="tour-sidebar.php">
                                <div class="tour-search-one__inner">
                                   <div class="tour-search-one__inputs">
                                      <div class="tour-search-one__input-box">

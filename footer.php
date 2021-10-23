@@ -74,7 +74,7 @@
                         <div class="foter_logo">
                             <h3 class=" text-white font-weight-bold">Company</h3>
                             <ul class="footer-widget__company-list list-unstyled mt-4">
-                                <li><a href="about.html">About Us</a></li>
+                                <li><a href="about.php">About Us</a></li>
                                 <li><a href="#">Community Blog</a></li>
                                 <li><a href="#">Rewards</a></li>
                                 <li><a href="#">Work with Us</a></li>
@@ -86,7 +86,7 @@
                         <div class="foter_logo">
                             <h3 class=" text-white font-weight-bold">Explore</h3>
                             <ul class="footer-widget__company-list list-unstyled mt-4">
-                                <li><a href="about.html">Account</a></li>
+                                <li><a href="about.php">Account</a></li>
                                 <li><a href="#">Legal </a></li>
                                 <li><a href="#">Contact</a></li>
                                 <li><a href="#">Affilated Programm</a></li>

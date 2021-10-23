@@ -69,7 +69,7 @@
                      <div class="collapse navbar-collapse" id="collapsibleNavbar">
                         <ul class="navbar-nav ml-5 pl-5">
                            <li class="nav-item w3-dropdown-hover">
-                              <a class="nav-link w3-button" href="index.html">Home</a>
+                              <a class="nav-link w3-button" href="index.php">Home</a>
                               <div class="w3-dropdown-content w3-bar-block w3-border">
                                  <a href="#" target="_blanks" class="w3-bar-item w3-button text-decoration-none">Home 1</a>
                                  <a href="#" class="w3-bar-item w3-button text-decoration-none">Home 2</a>
@@ -79,22 +79,22 @@
                            <li class="nav-item w3-dropdown-hover ml-5">
                               <a class="nav-link " href="#">Destination</a>
                               <div class="w3-dropdown-content w3-bar-block w3-border">
-                                 <a href="destination page.html" class="w3-bar-item w3-button text-decoration-none">Destination</a>
-                                 <a href="destination details.html" class="w3-bar-item w3-button text-decoration-none">Destination Details</a>
+                                 <a href="destination page.php" class="w3-bar-item w3-button text-decoration-none">Destination</a>
+                                 <a href="destination details.php" class="w3-bar-item w3-button text-decoration-none">Destination Details</a>
                               </div>
                            </li>
                            <li class="nav-item  w3-dropdown-hover  ml-5">
                               <a class="nav-link" href="#">Tours</a>
                               <div class="w3-dropdown-content w3-bar-block w3-border">
-                                 <a href="tours.html" class="w3-bar-item w3-button text-decoration-none">Tour</a>
-                                 <a href="tourlist.html.html" class="w3-bar-item w3-button text-decoration-none">Tour list</a>
-                                 <a href="tour list details.html" class="w3-bar-item w3-button text-decoration-none">Tour Details</a>
+                                 <a href="tours.php" class="w3-bar-item w3-button text-decoration-none">Tour</a>
+                                 <a href="tourlist.php" class="w3-bar-item w3-button text-decoration-none">Tour list</a>
+                                 <a href="tour list details.php" class="w3-bar-item w3-button text-decoration-none">Tour Details</a>
                               </div>
                            </li>
                            <li class="nav-item w3-dropdown-hover  ml-5">
                               <a class="nav-link" href="#">Pages</a>
                               <div class="w3-dropdown-content w3-bar-block w3-border">
-                                 <a href="about.html" class="w3-bar-item w3-button text-decoration-none">About</a>
+                                 <a href="about.php" class="w3-bar-item w3-button text-decoration-none">About</a>
                               </div>
                            </li>
                            <li class="nav-item w3-dropdown-hover  ml-5">
@@ -579,7 +579,7 @@
                             <div class="foter_logo">
                                 <h3 class=" text-white font-weight-bold">Company</h3>
                                 <ul class="footer-widget__company-list list-unstyled mt-4">
-                                    <li><a href="about.html">About Us</a></li>
+                                    <li><a href="about.php">About Us</a></li>
                                     <li><a href="#">Community Blog</a></li>
                                     <li><a href="#">Rewards</a></li>
                                     <li><a href="#">Work with Us</a></li>
@@ -591,7 +591,7 @@
                             <div class="foter_logo">
                                 <h3 class=" text-white font-weight-bold">Explore</h3>
                                 <ul class="footer-widget__company-list list-unstyled mt-4">
-                                    <li><a href="about.html">Account</a></li>
+                                    <li><a href="about.php">Account</a></li>
                                     <li><a href="#">Legal </a></li>
                                     <li><a href="#">Contact</a></li>
                                     <li><a href="#">Affilated Programm</a></li>
@@ -717,7 +717,7 @@
          
          function render(value) {
          var formattedValue = settings.formatter.call(self, value, settings);
-         $self.html(formattedValue);
+         $self.php(formattedValue);
          }
          });
          };
